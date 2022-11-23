@@ -1,0 +1,2 @@
+- learn about git, git repository, git branching
+- create the mardown example
