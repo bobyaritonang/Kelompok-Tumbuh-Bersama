@@ -1,2 +1,6 @@
-- learn about git, git repository, git branching
+- learn about git, git repository, git branching, git flow
 - create the mardown example
+
+references:
+- https://www.atlassian.com/git/tutorials/what-is-version-control
+- https://www.markdowntutorial.com/
