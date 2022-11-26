@@ -1,0 +1,11 @@
+Tugas 1.
+tentang git 
+git itu tempat menyimpan data 
+bisa kita melihat setiap perubahan yang ada 
+
+kedua itu git repository
+nah apa kegunaan git repository adalah untuk menyimpan projek kita
+istilah si repository ini adalah sebuah folder 
+
+ketiga yaitu git braching 
+ini membuat cabang cabang dari yang bisa mengedit 
